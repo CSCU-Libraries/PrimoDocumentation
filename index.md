@@ -4,13 +4,13 @@ This site is built on GitHub pages. Its goal is to provide a web front-end for b
 
 ## Visiting the Documentation Website
 
-The styled "front-end" of the documentation website can be seen at [https://cscu-libraries.github.io/PrimoDocumentation/](https://cscu-libraries.github.io/PrimoDocumentation/){target="_blank"}.
+The styled "front-end" of the documentation website can be seen at [https://cscu-libraries.github.io/PrimoDocumentation/](https://cscu-libraries.github.io/PrimoDocumentation/){:target="_blank"}.
 
 ****
 
 ## Editing the Documentation website
 
-You can use the [editor on GitHub](https://github.com/CSCU-Libraries/Primo-Documentation/edit/gh-pages/index.md){target="_blank"} to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/CSCU-Libraries/Primo-Documentation/edit/gh-pages/index.md){:target="_blank"} to maintain and preview the content for your website in Markdown files.
 
 Alternatively, you can use a regular git & markdown code-based workflow with pull requests in order to make changes. The branch for the website's code is the gh-pages branch (not the main branch), so keep that in mind.
 
