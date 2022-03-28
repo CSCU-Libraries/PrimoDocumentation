@@ -1,11 +1,13 @@
 # Welcome to the CSCU Primo Documentation Hub
+This site is built on GitHub pages. Its goal is to provide a web front-end for both documentation and code (as needed) for CSCU libraries seeking to customize their Primo implementations. CSCU is a library consortium that currently uses the Primo UI (formerly known as the NUI or New UI) / Primo Back Office. We do not currently use Primo VE.
 
-
-## How to View
-
+## How to View the Documemtation Website
+The styled "front-end" of the documentation website can be used at [https://cscu-libraries.github.io/PrimoDocumentation/](https://cscu-libraries.github.io/PrimoDocumentation/).
 
 ## How to Edit
 You can use the [editor on GitHub](https://github.com/CSCU-Libraries/Primo-Documentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Alternatively, you can use a regular git & markdown code-based workflow with pull requests in order to make changes. The branch for the website's code is the gh-pages branch (not the main branch), so keep that in mind.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
