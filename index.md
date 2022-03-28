@@ -46,7 +46,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 #### Note:
 
-_SBC Added Kramdown links to config.yml per Stack Overflow answer to question about adding a link to launch in new tab (in html target="_blank")_
+_Added Kramdown links to config.yml per Stack Overflow answer to question about adding a link to launch in new tab (in html target="_blank") - SBC_
 
 ### Support or Contact
 
