@@ -1,7 +1,7 @@
 ---
 ---
-@import "{{ site.theme }}";
+@import "{{ site.jekyll-theme-cayman }}";
 
-h1.project-name{font-family: 'Times New Roman', Times, serif;}
-h2 {color: yellow;}
-p {color: red;}
+h1.project-name{font-family:'sans-serif';}
+h2 {color: silver;}
+p {color: blue; background-color: yellow;}
