@@ -5,6 +5,8 @@ This site is built on GitHub pages. Its goal is to provide a web front-end for b
 ## Visiting the Documentation Website
 
 The styled "front-end" of the documentation website can be seen at [https://cscu-libraries.github.io/PrimoDocumentation/](https://cscu-libraries.github.io/PrimoDocumentation/){:target="_blank"}.
+Information on the documentation repository (main branch) & for the documentation website (gh-pages branch) can be found at: https://github.com/CSCU-Libraries/PrimoDocumentation
+
 
 ****
 
