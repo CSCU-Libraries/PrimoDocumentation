@@ -32,7 +32,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## A List of Customization Documents
 
-- Customizing Primo's Actions / Send to area in the brief record display
+- Customizing Primo's Actions / Send to area in the brief record display [https://docs.google.com/document/d/e/2PACX-1vTel3WkOyHuS4SMWGkdIN8om86y1ubMPClu7jCy7u19vFmt2FlcQ80wHHV6sepyj0O6bEw0_LidjC-J/pub]
 - Adding a live chat / help widget to Primo
 - Customizing the Primo Help pages
 - Facets / filters
