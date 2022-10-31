@@ -12,7 +12,7 @@ Information on the documentation repository (main branch) & for the documentatio
 
 ## A List of Customization Documents
 
-- Customizing Primo's Actions / Send to area in the brief record display [https://docs.google.com/document/d/e/2PACX-1vTel3WkOyHuS4SMWGkdIN8om86y1ubMPClu7jCy7u19vFmt2FlcQ80wHHV6sepyj0O6bEw0_LidjC-J/pub]
+- Customizing Primo's Actions / Send to area in the brief record display https://docs.google.com/document/d/e/2PACX-1vTel3WkOyHuS4SMWGkdIN8om86y1ubMPClu7jCy7u19vFmt2FlcQ80wHHV6sepyj0O6bEw0_LidjC-J/pub
 - Adding a live chat / help widget to Primo
 - Customizing the Primo Help pages
 - Facets / filters
@@ -21,33 +21,34 @@ Information on the documentation repository (main branch) & for the documentatio
 - Viewing the PNX / Source Record for a Primo record (for troubleshooting)
 
 ###
-From Angela:
-# Search Filter Facets 
 
-## Change Facet Heading "Tweak my results"
+- Outline of documents From Angela:
+## Search Filter Facets 
+
+### Change Facet Heading "Tweak my results"
 
 How-to:
 See also [link to Ex Libris Knowledgebase]
 
-## Change Which Facet Categorie Show
+### Change Which Facet Categorie2 Show
 
 Intro paragraph with example [e.g. "..."]
 See also [link to Ex Libris Knowledgebase]
 
-## Change Label of Facet Category
+### Change Label of Facet Category
 
 Intro paragraph with example [e.g. "..."]
 See also [link to Ex Libris Knowledgebase]
 
-## Change Individual Facet Labels
+### Change Individual Facet Labels
 
 Intro paragraph with example [e.g. "audiovisual"]
 See also [link to Ex Libris Knowledgebase]
 
-## Course Reserves
+### Course Reserves
 
 Intro
 
-## Collection Discovery
+### Collection Discovery
 
-## Resource Recommender
+### Resource Recommender
