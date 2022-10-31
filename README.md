@@ -1,6 +1,6 @@
 README.md
 
-This is the README for the documentation website visible at: https://cscu-libraries.github.io/PrimoDocumentation/ based on the github repository visible at https://github.com/CSCU-Libraries/PrimoDocumentation
+This is the README for the documentation website visible at: https://cscu-libraries.github.io/PrimoDocumentation/ based on the github repository visible at https://github.com/CSCU-Libraries/PrimoDocumentation <em><strong>with the content for the actual site visible on its gh-pages branch</strong></em>.
 
 We will be using the Github Pages (Jekyll pages) setup with a Just the Docs theme (see: https://just-the-docs.github.io/just-the-docs/ from https://github.com/just-the-docs/just-the-docs). <br><em>Note: if there is a GH page  version of a repository whose url is https://github.com/githubusername/repositoryname it will be published at https://githubusername.github.io/repositoryname</em>
 
