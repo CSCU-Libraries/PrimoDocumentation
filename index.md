@@ -1,6 +1,6 @@
-# Welcome to the CSCU Primo Documentation Hub
+# Welcome to the Collaborative CSCU Primo Documentation Hub
 
-This site is built on GitHub pages. Its goal is to provide a web front-end for both documentation and code (as needed) for CSCU libraries seeking to customize their implementation of Primo. CSCU is a library consortium that currently uses the Primo UI (formerly known as the NUI or New UI) / Primo Back Office. We do not currently use Primo VE. This documentation was compiled by the CSCU Primo Expert Team.
+This site is built on GitHub pages. Its goal is to provide a web front-end for both documentation and code (as needed) for CSCU libraries seeking to customize their implementation of Primo. Members of the consortium can contribute code and documentation and these materials will be shared publicly using this website. CSCU is a library consortium that currently uses the Primo UI (formerly known as the NUI or New UI) / Primo Back Office. We do not currently use Primo VE. This documentation was compiled by the CSCU Primo Expert Team.
 
 ## The Primo Customization Documentation Website
 
@@ -52,3 +52,5 @@ Intro
 ### Collection Discovery
 
 ### Resource Recommender
+
+
