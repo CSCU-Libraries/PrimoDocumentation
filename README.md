@@ -1,6 +1,6 @@
 README.md
 
-This is the README for the documentation website visible at: https://cscu-libraries.github.io/PrimoDocumentation/ based on the github repository visible at https://github.com/CSCU-Libraries/PrimoDocumentation <em><strong>with the content for the actual site visible on its gh-pages branch, visible at https://github.com/CSCU-Libraries/PrimoDocumentation/tree/gh-pages</strong></em>.
+This is the README for the documentation website visible at: https://cscu-libraries.github.io/PrimoDocumentation/ based on the github repository visible at https://github.com/CSCU-Libraries/PrimoDocumentation <em><strong>with the content for the documentation site visible on its gh-pages branch, visible at https://github.com/CSCU-Libraries/PrimoDocumentation/tree/gh-pages</strong></em>.
 
 We will be using the Github Pages (Jekyll pages) setup with a Just the Docs theme (see: https://just-the-docs.github.io/just-the-docs/ from https://github.com/just-the-docs/just-the-docs). <br><em>Note: if there is a GH page  version of a repository whose url is https://github.com/githubusername/repositoryname it will be published at https://githubusername.github.io/repositoryname</em>
 
@@ -10,3 +10,9 @@ We will be using the Github Pages (Jekyll pages) setup with a Just the Docs them
 * Some Primo customization documentation is currently visible (& probably in need of testing/updating?) at https://3.basecamp.com/3225494/buckets/2718410/vaults/402032753
 ** A usability study that foregrounded this work (sometimes led to Primo customizations via Primo Back Office) is available at: https://github.com/sclappccsu/PrimoUX, (compiled work of CSCU Primo team members Christine Dicarro, Angela Walker, Sharon Clapp based on survey to CSCU libraries). The "website" for this study is visible at https://app.gitbook.com/o/-Lrsor4aIVC7Te0AX-X4/s/-LrsoT-JZyg4ggADtwdB/.
 
+Since most of the site will be coded in a combination of markdown & html, but should require minimal technical skills to edit, here is a key for how to work with markdown for github:
+* Information about markdown syntax available / supported in github pages at https://www.markdownguide.org/tools/github-pages/
+* Get Started with Markdown at https://www.markdownguide.org/getting-started/
+* Basic syntax - https://www.markdownguide.org/basic-syntax/ (e.g., headings, lists)
+* Extended syntax - https://www.markdownguide.org/extended-syntax/ (e.g., tables)
+* Markdown cheatsheet - https://www.markdownguide.org/cheat-sheet/ 
