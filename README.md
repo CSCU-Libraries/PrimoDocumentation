@@ -16,3 +16,5 @@ Since most of the site will be coded in a combination of markdown & html, but sh
 * Basic syntax - https://www.markdownguide.org/basic-syntax/ (e.g., headings, lists)
 * Extended syntax - https://www.markdownguide.org/extended-syntax/ (e.g., tables)
 * Markdown cheatsheet - https://www.markdownguide.org/cheat-sheet/ 
+
+https://www.ct.edu/files/images/logo-cscu-white2.svg
