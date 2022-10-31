@@ -12,7 +12,7 @@ We will be using the Github Pages (Jekyll pages) setup with a Just the Docs them
 
 Since most of the site will be coded in a combination of markdown & html, but should require minimal technical skills to edit, here is a key for how to work with markdown for github:
 * Information about markdown syntax available / supported in github pages at https://www.markdownguide.org/tools/github-pages/
-* Get Started with Markdown at https://www.markdownguide.org/getting-started/
+* Get Started with Markdown at https://www.markdownguide.org/getting-started/ or https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 * Basic syntax - https://www.markdownguide.org/basic-syntax/ (e.g., headings, lists)
 * Extended syntax - https://www.markdownguide.org/extended-syntax/ (e.g., tables)
 * Markdown cheatsheet - https://www.markdownguide.org/cheat-sheet/ 
