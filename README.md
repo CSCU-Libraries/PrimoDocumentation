@@ -17,4 +17,6 @@ Since most of the site will be coded in a combination of markdown & html, but sh
 * Extended syntax - https://www.markdownguide.org/extended-syntax/ (e.g., tables)
 * Markdown cheatsheet - https://www.markdownguide.org/cheat-sheet/ 
 
-https://www.ct.edu/files/images/logo-cscu-white2.svg
+You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
+
+![CSCU logo white](https://www.ct.edu/files/images/logo-cscu-white2.svg)
