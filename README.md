@@ -16,10 +16,7 @@ Since most of the site will be coded in a combination of markdown & html, but sh
 * Basic syntax - https://www.markdownguide.org/basic-syntax/ (e.g., headings, lists)
 * Extended syntax - https://www.markdownguide.org/extended-syntax/ (e.g., tables)
 * Markdown cheatsheet - https://www.markdownguide.org/cheat-sheet/ 
-```
-<div style="text-align: center; margin: 0 auto; max-width: 400px; background-color: darkblue">
-<img src="https://www.ct.edu/files/images/logo-cscu-white2.svg" alt="CSCU white logo">
-</div>
-```
-![CSCU logo dark](https://www.ct.edu/files/images/logo-cscu-black.svg)
+
+    ![CSCU logo dark](https://www.ct.edu/files/images/logo-cscu-black.svg)
+
 Logos: https://www.ct.edu/files/images/logo-cscu-black.svg or https://www.ct.edu/files/images/logo-cscu-white2.svg
