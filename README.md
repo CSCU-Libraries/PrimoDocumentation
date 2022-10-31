@@ -17,8 +17,5 @@ Since most of the site will be coded in a combination of markdown & html, but sh
 * Extended syntax - https://www.markdownguide.org/extended-syntax/ (e.g., tables)
 * Markdown cheatsheet - https://www.markdownguide.org/cheat-sheet/ 
 
-
-<div style="margin: 0 auto; text-align: center; max-width: 380px;">
 ![CSCU logo dark](https://www.ct.edu/files/images/logo-cscu-black.svg)
 Logos: https://www.ct.edu/files/images/logo-cscu-black.svg or https://www.ct.edu/files/images/logo-cscu-white2.svg
-            </div>
