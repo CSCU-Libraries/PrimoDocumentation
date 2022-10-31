@@ -40,3 +40,34 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 -- Reducing the number of facets that appear by default
 - Viewing the PNX / Source Record for a Primo record (for troubleshooting)
 
+###
+From Angela:
+# Search Filter Facets 
+
+## Change Facet Heading "Tweak my results"
+
+How-to:
+See also [link to Ex Libris Knowledgebase]
+
+## Change Which Facet Categorie Show
+
+Intro paragraph with example [e.g. "..."]
+See also [link to Ex Libris Knowledgebase]
+
+## Change Label of Facet Category
+
+Intro paragraph with example [e.g. "..."]
+See also [link to Ex Libris Knowledgebase]
+
+## Change Individual Facet Labels
+
+Intro paragraph with example [e.g. "audiovisual"]
+See also [link to Ex Libris Knowledgebase]
+
+## Course Reserves
+
+Intro
+
+## Collection Discovery
+
+## Resource Recommender
