@@ -19,4 +19,5 @@ Since most of the site will be coded in a combination of markdown & html, but sh
 
 You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
 
-![CSCU logo white](https://www.ct.edu/files/images/logo-cscu-white2.svg)
+![CSCU logo dark](https://www.ct.edu/files/images/logo-cscu-black.svg)
+Logos: https://www.ct.edu/files/images/logo-cscu-black.svg or https://www.ct.edu/files/images/logo-cscu-white2.svg
