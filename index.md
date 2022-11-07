@@ -10,7 +10,27 @@ Information on the documentation repository (main branch) & for the documentatio
 
 ****
 
-## A List of Customization Documents
+###
+
+## What we have
+### Current Library of Primo documents from Basecamp (accessible to Primo Team members)
+1.	Primo/Discovery folder (subfolders updated before 2021)
+- Back Office Pages (links)
+- Consortium Delivery System Skin
+- User Training
+- Retreats
+
+2.	Primo/Discovery folder (subfolders updated since 2021)
+- Resource Recommender
+- Primo Harvesting and Indexing
+- Primo Duplication 
+- Primo Discovery Document Review
+- Libguides OAI
+- Primo URLs (excel)
+##
+
+## What we need 
+### A List of Customization Documents needed per the survey on customizations
 
 - Customizing Primo's Actions / Send to area in the brief record display https://docs.google.com/document/d/e/2PACX-1vTel3WkOyHuS4SMWGkdIN8om86y1ubMPClu7jCy7u19vFmt2FlcQ80wHHV6sepyj0O6bEw0_LidjC-J/pub
 - Adding a live chat / help widget to Primo
@@ -20,37 +40,35 @@ Information on the documentation repository (main branch) & for the documentatio
 -- Reducing the number of facets that appear by default
 - Viewing the PNX / Source Record for a Primo record (for troubleshooting)
 
-###
+### Outline of documents From Angela:
+#### Search Filter Facets 
 
-- Outline of documents From Angela:
-## Search Filter Facets 
-
-### Change Facet Heading "Tweak my results"
+- Change Facet Heading "Tweak my results"
 
 How-to:
 See also [link to Ex Libris Knowledgebase]
 
-### Change Which Facet Categorie2 Show
+- Change Which Facet Categories Show
 
 Intro paragraph with example [e.g. "..."]
 See also [link to Ex Libris Knowledgebase]
 
-### Change Label of Facet Category
+- Change Label of Facet Category
 
 Intro paragraph with example [e.g. "..."]
 See also [link to Ex Libris Knowledgebase]
 
-### Change Individual Facet Labels
+- Change Individual Facet Labels
 
 Intro paragraph with example [e.g. "audiovisual"]
 See also [link to Ex Libris Knowledgebase]
 
-### Course Reserves
+- Course Reserves
 
 Intro
 
-### Collection Discovery
+- Collection Discovery
 
-### Resource Recommender
+- Resource Recommender
 
-
+****
