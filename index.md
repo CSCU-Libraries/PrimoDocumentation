@@ -15,7 +15,7 @@ Information on the documentation repository (main branch) & for the documentatio
 ## What we have
 ### Current Library of Primo documents from Basecamp (accessible to Primo Team members)
 1.	Primo/Discovery folder (subfolders updated before 2021)
-- Documentation for Primo home on Basecamp: https://3.basecamp.com/3225494/buckets/2718410/vaults/402032753
+- Primo/Discovery Documentation home on Basecamp: https://3.basecamp.com/3225494/buckets/2718410/vaults/402032753
   - Primo Back Office Login pages (document on Basecamp) - https://3.basecamp.com/3225494/buckets/2718410/documents/3536390881
   - "Primo Back Office" subfolder: https://3.basecamp.com/3225494/buckets/2718410/vaults/3536390685
     - Consortium Delivery System Skin: https://3.basecamp.com/3225494/buckets/2718410/uploads/3545282348
